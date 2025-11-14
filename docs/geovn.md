@@ -1,4 +1,0 @@
-
-# geovn module
-
-::: geovn.geovn
