@@ -1,7 +1,6 @@
-"""The common module contains common functions and classes used by the other modules.
+"""Top level package for geovn.
 """
 
-def hello_world():
-    """Prints "Hello World!" to the console.
-    """
-    print("Hello World!")
+__author__ = """Le Nguyen"""
+__email__ = "thanhle.ng@gmail.com"
+__version__ = "0.0.2"
